@@ -1,0 +1,18 @@
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\bin\Debug\net10.0-windows\калькулятор дизайн.exe
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\bin\Debug\net10.0-windows\калькулятор дизайн.deps.json
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\bin\Debug\net10.0-windows\калькулятор дизайн.runtimeconfig.json
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\bin\Debug\net10.0-windows\калькулятор дизайн.dll
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\bin\Debug\net10.0-windows\калькулятор дизайн.pdb
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор_дизайн.Form1.resources
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор_дизайн.Properties.Resources.resources
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.csproj.GenerateResource.cache
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.GeneratedMSBuildEditorConfig.editorconfig
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.AssemblyInfoInputs.cache
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.AssemblyInfo.cs
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.csproj.CoreCompileInputs.cache
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.sourcelink.json
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.dll
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\refint\калькулятор дизайн.dll
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.pdb
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\калькулятор дизайн.genruntimeconfig.cache
+\\edu.local\public\studenthomes\25301071\Desktop\inueco-main\repos\калькулятор дизайн\калькулятор дизайн\obj\Debug\net10.0-windows\ref\калькулятор дизайн.dll
